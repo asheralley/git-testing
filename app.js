@@ -1,5 +1,3 @@
-// this is a something
+// Adding new branch
 
-// adding something here
-
-let test = "string of things";
+let testing = "string of something";
